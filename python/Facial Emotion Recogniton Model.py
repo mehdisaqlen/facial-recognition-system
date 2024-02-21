@@ -111,3 +111,6 @@ print('Test accuracy:', test_acc)
 
 # Save the model in the native Keras format
 model.save('emotion_recognition_model.keras')
+
+# Save the model
+# model.save('emotion_recognition_model.h5')
