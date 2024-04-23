@@ -49,7 +49,7 @@ python predict_emotion.py /path/to/local/image.jpg
 
 ## Credits
 
-This project is developed by **Saqlen Raza Mehdi** as part of **Final Year Research Project**.
+This project is developed by **Saqlen Raza Mehdi** as part of **Open Source Research Project**.
 
 ## License
 
